@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+.mainheader {
+    color: rgb(233, 132, 132);
+}
+
+#mainlist {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
