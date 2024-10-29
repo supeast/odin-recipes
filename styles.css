@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+}
+
+.mainheader {
+    color: rgb(44, 5, 5);
+    text-align: center;
+    background-color: rgb(179, 70, 70);
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid black;
+    
+}
+
+#mainlist {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    background-color: rgb(241, 146, 146);
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid black;
+}
